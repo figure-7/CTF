@@ -1,0 +1,5 @@
+使用网站https://quipqiup.com/设置puzzle为MTHJ{CUBCGXGUGXWREXIPOYAOEYFIGXWRXCHTKHFCOHCFDUCGTXZOHIXOEOWMEHZO}
+Clues设置为MTHJ=flag，运行后得到的答案中：
+0	-2.029	flag substitution cipher decryption is always easy just like a piece of cake
+为完整一句话，即flag：
+flag{substitutioncipherdecryptionisalwayseasyjustlikeapieceofcake}
