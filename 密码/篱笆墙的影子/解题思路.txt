@@ -1,0 +1,4 @@
+下载的压缩包解压后得到篱笆墙的影子.txt，内容：
+felhaagv{ewtehtehfilnakgw}
+使用CaptfEncoder-win-x64-1.3.0进行Rail-fence Cipher解码，把位移设置为2（默认为2），得到flag（实际上就是隔一个一组和从左到右两趟）：
+flag{wethinkwehavetheflag}
