@@ -1,0 +1,5 @@
+__int64 sub_400686()
+{
+  system("cat flag.txt");
+  return 0LL;
+}
