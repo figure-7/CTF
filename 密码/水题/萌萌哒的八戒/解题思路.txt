@@ -1,0 +1,5 @@
+下载压缩包解压得到一个图片
+看到下方是猪圈密码
+使用网站https://baike.so.com/gallery/list?ghid=first&pic_idx=1&eid=5399490&sid=5636999进行对照解码得：
+whenthepigwanttoeat,即flag：
+flag{whenthepigwanttoeat}

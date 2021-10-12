@@ -1,0 +1,5 @@
+题目已知c1,e1,c2,e2,n
+套共模攻击板子，运行exp.py得到：
+b'flag{49d91077a1abcb14f1a9d546c80be9ef}'
+即flag：
+flag{49d91077a1abcb14f1a9d546c80be9ef}
