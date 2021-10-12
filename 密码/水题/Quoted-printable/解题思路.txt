@@ -1,0 +1,5 @@
+下载文件解压得到题目.txt
+显示：
+=E9=82=A3=E4=BD=A0=E4=B9=9F=E5=BE=88=E6=A3=92=E5=93=A6
+打开CyberChef使用From Quoted Printable解码得到：那你也很棒哦，即flag：
+flag{那你也很棒哦}

@@ -1,0 +1,5 @@
+下载压缩包解压得到文件
+里面显示：.. .-.. --- ...- . -.-- --- ..-
+打开CyberChef使用From Morse Code解码得到：ILOVEYOU
+即flag：
+flag{ILOVEYOU}
