@@ -1,0 +1,8 @@
+用wireshark打开pcapng后找到25	11.016447	192.168.109.1	192.168.109.132	HTTP	381	POST /steghide.php HTTP/1.1  (JPEG JFIF image)
+右键追踪HTTP流，保存原始数据到新建文本文档中
+打开010Editor,导入16进制选择文本文档，视图->编辑方式调整为文本
+删除可以阅读的部分（首位段）保存到新建文本文档2
+将新建文本文档改为1.jpg即可看到图片内容
+然后把1.jpg放到steghide目录内在当前文件夹输入steghide extract -sf 1.jpg
+输入密码123456即可得到flag.txt
+flag.txt中可以看到flag
