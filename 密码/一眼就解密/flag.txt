@@ -1,0 +1,1 @@
+flag{THE_FLAG_OF_THIS_STRING}
