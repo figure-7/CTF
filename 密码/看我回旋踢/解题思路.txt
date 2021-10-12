@@ -1,0 +1,4 @@
+下载压缩包解压得到文件
+里面显示：synt{5pq1004q-86n5-46q8-o720-oro5on0417r1}
+打开CyberChef使用ROT13解码得到flag：
+flag{5cd1004d-86a5-46d8-b720-beb5ba0417e1}
