@@ -1,0 +1,3 @@
+运行脚本exp.py得到结果：
+b'flag{cc7490e-78ab-11e9-b422-8ba97e5da1fd}'，即flag:
+flag{cc7490e-78ab-11e9-b422-8ba97e5da1fd}
