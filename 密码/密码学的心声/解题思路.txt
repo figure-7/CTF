@@ -1,0 +1,4 @@
+图片中的线索很明显ASCLL码 八进制
+数字三个一组，转换就行了
+运行exp.py即可得到结果即flag：
+flag{ILoveSecurityVeryMuch}
