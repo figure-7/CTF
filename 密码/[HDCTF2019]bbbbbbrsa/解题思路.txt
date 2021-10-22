@@ -1,0 +1,7 @@
+题目给出e的取值范围 ，以及n和p、base32加密并倒序的c
+由n和p可得q，base32倒序解密得c
+只要爆破出e即可
+运行脚本exp.py得到：
+e =  51527
+b'flag{rs4_1s_s1mpl3!#}'，即flag：
+flag{rs4_1s_s1mpl3!#}
