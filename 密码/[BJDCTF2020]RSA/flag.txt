@@ -1,0 +1,1 @@
+flag{p_is_common_divisor}
