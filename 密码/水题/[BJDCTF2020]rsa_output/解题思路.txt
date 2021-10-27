@@ -1,0 +1,4 @@
+通过观察output.txt,第一个和第二个的n是一样的,不同的是e,因此判断可以通过共模攻击来decrypt
+直接套共模攻击板子运行脚本exp.py得到：
+b'BJD{r3a_C0mmoN_moD@_4ttack}'，即flag：
+flag{r3a_C0mmoN_moD@_4ttack}
