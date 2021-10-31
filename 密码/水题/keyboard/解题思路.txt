@@ -1,0 +1,3 @@
+keyboard.txt里面的数字分别对应九键输入法的：
+mobilephone,即flag：
+flag{mobilephone}
