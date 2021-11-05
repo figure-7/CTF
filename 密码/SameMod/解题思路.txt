@@ -1,0 +1,5 @@
+有题目SameMod知采用共模攻击
+运行脚本exp.py得到：
+1021089710312311910410111011910111610410511010710511610511511211111511510598108101125
+flag{whenwethinkitispossible}，即flag：
+flag{whenwethinkitispossible}
