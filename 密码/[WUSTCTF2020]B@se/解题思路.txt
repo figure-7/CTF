@@ -1,0 +1,51 @@
+给定明文的字符串经过判断缺少字符ju34（需要得到所有数字和大小写字母）
+之后套BASE64板子base64.py即可得到：
+Decrypted String:
+wctf2220{bape64_p_v0ry_e@py_and_fuN} 
+Decrypted String:
+wctf2320{bape64_p_v0ry_e@py_and_fuN} 
+Decrypted String:
+wctf2120{bape64_p_v0ry_e@py_and_fuN} 
+Decrypted String:
+wctf2120{bape64_p_v0ry_e@py_and_fuN} 
+Decrypted String:
+wctf2320{bape64_p_v0ry_e@py_and_fuN} 
+Decrypted String:
+wctf2220{bape64_p_v0ry_e@py_and_fuN} 
+Decrypted String:
+wctf2220{baqe64_q_v1ry_e@qy_and_fuN} 
+Decrypted String:
+wctf2320{baqe64_q_v1ry_e@qy_and_fuN} 
+Decrypted String:
+wctf2120{bare64_!r_v2ry_e@ry_and_fuN} 
+Decrypted String:
+wctf2120{base64_1s_v3ry_e@sy_and_fuN} 
+Decrypted String:
+wctf2320{bare64_!r_v2ry_e@ry_and_fuN} 
+Decrypted String:
+wctf2220{base64_1s_v3ry_e@sy_and_fuN} 
+Decrypted String:
+wctf2020{baqe64_q_v1ry_e@qy_and_fuN} 
+Decrypted String:
+wctf2020{baqe64_q_v1ry_e@qy_and_fuN} 
+Decrypted String:
+wctf2020{bare64_!r_v2ry_e@ry_and_fuN} 
+Decrypted String:
+wctf2020{base64_1s_v3ry_e@sy_and_fuN} 
+Decrypted String:
+wctf2020{bare64_!r_v2ry_e@ry_and_fuN} 
+Decrypted String:
+wctf2020{base64_1s_v3ry_e@sy_and_fuN} 
+Decrypted String:
+wctf2320{baqe64_q_v1ry_e@qy_and_fuN} 
+Decrypted String:
+wctf2220{baqe64_q_v1ry_e@qy_and_fuN} 
+Decrypted String:
+wctf2320{bare64_!r_v2ry_e@ry_and_fuN} 
+Decrypted String:
+wctf2220{base64_1s_v3ry_e@sy_and_fuN} 
+Decrypted String:
+wctf2120{bare64_!r_v2ry_e@ry_and_fuN} 
+Decrypted String:
+wctf2120{base64_1s_v3ry_e@sy_and_fuN}，即flag：
+flag{base64_1s_v3ry_e@sy_and_fuN}
