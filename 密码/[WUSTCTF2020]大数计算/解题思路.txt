@@ -1,0 +1,6 @@
+运行脚本exp.py得到：
+24d231f
+403cfd3
+108db5e
+a6d10，即flag：
+flag{24d231f-403cfd3-108db5e-a6d10}
