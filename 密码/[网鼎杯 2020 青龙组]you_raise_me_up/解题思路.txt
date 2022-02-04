@@ -1,0 +1,5 @@
+求满足m的bytes_to_long(flag)次方，对n求模的flag值。
+m的值为2到n的512次方之间的数。
+运行脚本exp.py得到：
+b'flag{5f95ca93-1594-762d-ed0b-a9139692cb4a}'，即flag：
+flag{5f95ca93-1594-762d-ed0b-a9139692cb4a}
