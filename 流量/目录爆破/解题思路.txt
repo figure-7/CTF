@@ -1,0 +1,5 @@
+首先打开流量，看到题目目录爆破，直接将搜索条件写为：http.request.method
+得到所有HTTP流，按照Length进行逐条查看分析（右键追踪流->tcp流）
+得到其中HTTP	813	POST /build/index.php/action/login?_=6975b9a9f7a359d322e06c0e28db112b HTTP/1.1  (application/x-www-form-urlencoded)
+这条里面显示：name=admin&password=SUCTF{password_is_not_weak}
+即flag：{password_is_not_weak}

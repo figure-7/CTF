@@ -1,0 +1,9 @@
+打开流量包，按照length大小排序，选择最大的点击分析->追踪流->TCP流
+查看整个对话中最大的包，得到内部信息base64字符串，保存为base64.txt
+使用CyberChef进行base64解析，input里拖入文件得到.PNG开头的文件
+点击output右侧的画笔自动转为图片文件base64解密.png
+保存图片，用OCR得到文本文档base64解密.txt
+根据流量分析文本文件给出的提示，base64解密.txt中的内容补齐私钥格式保存为private.key
+在wireshark中点击编辑->首选项->TLS->Edit->+号，选择好Key File，点击确定
+之后可以看到流文件中出现了相应200的HTTP流，右键选择查看HTTP流，得到其中显示：DDCTF{0ca2d8642f90e10efd9092cd6a2831c0} </em></p>
+即flag{0ca2d8642f90e10efd9092cd6a2831c0}

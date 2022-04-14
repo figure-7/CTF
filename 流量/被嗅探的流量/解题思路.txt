@@ -1,0 +1,5 @@
+打开流量包
+上方搜索http.request.method获得所有http请求
+可以看到几个get和post的请求，依次右键追踪流->TCP流
+发现其中HTTP	375	POST /upload.php HTTP/1.1  (JPEG JFIF image)对应的TCP流显示：
+即flag{da73d88936010da1eeeb36e945ec4b97}
