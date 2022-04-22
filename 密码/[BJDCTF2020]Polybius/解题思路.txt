@@ -1,0 +1,4 @@
+给的hint直接带入cyberchef得到：The length of this plaintext: 14
+观察密文发现正好只有a,e,i,o,u五种，符合波利比奥斯方阵中5*5=25+1=26个字母
+运行脚本polybius.py得到其中是通顺的一句话是：flagispolybius
+即flag{flagispolybius}
