@@ -1,0 +1,3 @@
+把文本放到cyberchef里得到十六进制解码见hex.txt
+之后可以发现base解码次数太多，所以运行脚本exp.py得到：afctf{U_5h0u1d_Us3_T00l5}
+即flag{U_5h0u1d_Us3_T00l5}
