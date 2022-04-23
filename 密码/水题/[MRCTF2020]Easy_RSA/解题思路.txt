@@ -1,0 +1,6 @@
+解一个方程组就可以了.求q时
+e d − 1 = k ϕ = k ( p − 1 ) ( q − 1 ) = k ( p q − ( p + q ) + 1 ) = > ( e d − 1 ) / / p q < ( e d − 1 ) / / ( p q − ( p + q ) + 1 ) = k . ed-1=k\phi=k(p-1)(q-1)=k(pq-(p+q)+1)=> (ed-1)//pq<(ed-1)//(pq-(p+q)+1)=k.
+ed−1=kϕ=k(p−1)(q−1)=k(pq−(p+q)+1)=>(ed−1)//pq<(ed−1)//(pq−(p+q)+1)=k.
+还有要注意的是p<q
+运行脚本exp.py得到：b'MRCTF{Ju3t_@_31mp13_que3t10n}'
+即flag：flag{Ju3t_@_31mp13_que3t10n}
