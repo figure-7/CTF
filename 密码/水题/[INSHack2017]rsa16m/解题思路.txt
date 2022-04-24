@@ -1,0 +1,2 @@
+直接套低指数板子运行脚本exp.py得到：b'INSA{(I)NSA_W0uld_bE_pr0uD}'
+即flag：flag{(I)NSA_W0uld_bE_pr0uD}
