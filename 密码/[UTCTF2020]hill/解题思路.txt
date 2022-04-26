@@ -1,0 +1,4 @@
+尝试n=2 猜测wznqca=utflag(前面的题目有说过类似对应,所以猜测这里还是这样)
+得到的不是最终答案,需要把原来的 ‘_’ ','大小写等补回去
+运行脚本hill希尔得到：utflagdngeruscphertextqq
+即flag{d4nger0us_c1pherText_qq}
