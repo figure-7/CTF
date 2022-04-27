@@ -1,0 +1,7 @@
+使用ARCHPR按照生日格式爆破得到第一个压缩包密码19260817
+使用ARCHPR按照生日格式爆破得到第二个压缩包密码alice
+使用ARCHPR按照生日格式爆破得到第三个压缩包密码AVADA
+后面两个不需要解压也行(((
+题目提示“花开(bloom)”暗指Asmuth-Bloom门限方案
+运行Asmuth-Bloom门限方案脚本得到：A treasure map is a map that marks the location of buried treasure, a lost mine, a valuable secret or a hidden locale. So flag is afctf{1sn't_s0_int3Resting}.
+即flag{1sn't_s0_int3Resting}
