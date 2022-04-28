@@ -1,0 +1,257 @@
+在网站（需科学上网）https://paiza.io/projects/c9fqcRW5l_3001d1xOlVAw?language=python上运行exp.py得到：
+Fix this sentence:
+Dear Frie*d**T*is tim* G*
+
+Fixed:
+Dear Friend IT is time Go
+
+Decrypted msg:
+Dear Friend IT is time Go
+nderstood muIm!stake anjo
+sed One timiIp)d encrypz&
+n scheme, I,e)rd that g;
+is the only,n+ryption c*
+hod that is,a<hematicab#
+ proven to n &ot crackk+
+ever if the,e1 is kept.<
+cure, Let MiIk&ow if yo{o
+gree with miIt' use thi}o
+ncryption soe%e always 
+
+Private key recovered: afctf{OPT_16I&t3rest1ni2
+
+Fix this sentence:
+nderstood*m**m*stake *nj*
+
+Fixed:
+Dear Friend IT is time Go
+
+Decrypted msg:
+nderstood muIm!stake anjo
+Dear Friend IT is time Go
+Yd` \x&u'd<II(~'$qo?}>W&
+D!wc;Wpc-n@y\(hcakd,pnJ;
+Cr$t;W=io"pyW*h~1ke"jnN*
+Bn` 'Z|r!'zyX=rb,~x$g/O#
+
+qvo%Ws&u!);'usa|~,g%F+
+Owars[{&u&ly\0:n2?g(t:<
+ItveQcunD<IR'upavjm}!Vo
+MsaesEtrind<IM&:r2z,9l'Po
+Dbvy#Ftionz:\$' s{,}=
+
+Private key recovered: Kggt5IRVU8*6p'n43z95 D2
+
+Fix this sentence:
+sed One t*m**p*d encr*pz*
+
+Fixed:
+Dear Friend IT is time Go
+
+Decrypted msg:
+sed One timiIp)d encrypz&
+Yd` \x&u'd<II(~'$qo?}>W&
+Dear Friend IT is time Go
+Y v1Mz,='@eA 7enb~hpZr
+^s%&M7&kpeJ"*5ncprp^c
+_oar@v=1nzeE5e6({~v1_j
+pw=Myieh)'/b'eyx~;Vb
+Rv` OAqieoleA8-:6:azl$u
+Tuw7C[,e'D IO/b$esl?e?F&
+Pr`7O_~=y'd IP.-&6*kt9@&
+Ycw+\~&'z&A,hs$v}~e#
+
+Private key recovered: Vff&	SXEX866m/y`7yk->T{
+
+Fix this sentence:
+n scheme,*I**e*rd tha* g*
+
+Fixed:
+Dear Friend IT is time Go
+
+Decrypted msg:
+n scheme, I,e)rd that g;
+D!wc;Wpc-n@y\(hcakd,pnJ;
+Y v1Mz,='@eA 7enb~hpZr
+Dear Friend IT is time Go
+C62e F?c'"T D_"inpthc C~
+B*v1<K~xi'^ LP5srmaueraBw
+
+5`~>Fq,=!
+bD/tc csmrkK
+O3wchJy,=&H JT8;~s jiath
+I0`tdSi=n`eZ/t` ig,ho[;
+M7wthTvx!n@eE.;bse!xyi];
+D&`h8Wvc'n^cIT,~7alvmhs
+
+Private key recovered: K#qe.XP\s~x/o$rerx nIf
+
+Fix this sentence:
+is the on*y**n*ryptio* c*
+
+Fixed:
+Dear Friend IT is time Go
+
+Decrypted msg:
+is the only,n+ryption c*
+Cr$t;W=io"pyW*h~1ke"jnN*
+^s%&M7&kpeJ"*5ncprp^c
+C62e F?c'"T D_"inpthc C~
+Dear Friend IT is time Go
+Ey%&<K3r+kn A[7so=atkhaFf
+
+f3i>F<&m=bI-t~pcrchkOn
+H`$thJ4&jx G_:;c# kg{t
+y
+Nc3cdc"PeQ-t}pif"ro_*
+Jd$chT;rc"peN,;#e vciY*
+Cu38W;ie"ncD_.~*1lwcrs
+
+Private key recovered: Lp"r.XV_],sss-o9"esv:nMw
+
+Fix this sentence:
+hod that *s**a*hemati*ab*
+
+Fixed:
+Dear Friend IT is time Go
+
+Decrypted msg:
+hod that is,a<hematicab#
+Bn` 'Z|r!'zyX=rb,~x$g/O#
+_oar@v=1nzeE5e6({~v1_j
+B*v1<K~xi'^ LP5srmaueraBw
+Ey%&<K3r+kn A[7so=atkhaFf
+Dear Friend IT is time Go
+zw="K}=1h7bA:nbmvoee*Ng
+I|` tGu=1or OP-!>5vav5p
+Ow7x_x1'Ze^:nam|{$.^#
+Kx`7tYzi-'zeA;!c>p=pn(X#
+Biw+$Zzr+'dcLP9d6,yje2
+
+Private key recovered: Mlf&2U\MX&s{|:u%?pnp7/L~
+
+Fix this sentence:
+ proven t* ** *ot cra*kk*
+
+Fixed:
+Dear Friend IT is time Go
+
+Decrypted msg:
+ proven to n &ot crackk+
+
+qvo%Ws&u!);'usa|~,g%F+
+pw=Myieh)'/b'eyx~;Vb
+
+5`~>Fq,=!
+bD/tc csmrkK
+
+f3i>F<&m=bI-t~pcrchkOn
+zw="K}=1h7bA:nbmvoee*Ng
+Dear Friend IT is time Go
+cvovJziei!bG7&ns7piv?x
+`axzP,e!	' ip ~},$W+
+gvxvTu=y!)'!&rsr;xn"Q+
+
+vad&Wu&!7!D#c'a{lm8
+
+Private key recovered: spi0XSE^u1s= r4rrhx7%Ev
+
+Fix this sentence:
+ever if t*e**e* is ke*t.*
+
+Fixed:
+Dear Friend IT is time Go
+
+Decrypted msg:
+ever if the,e1 is kept.<
+Owars[{&u&ly\0:n2?g(t:<
+Rv` OAqieoleA8-:6:azl$u
+O3wchJy,=&H JT8;~s jiath
+H`$thJ4&jx G_:;c# kg{t
+y
+I|` tGu=1or OP-!>5vav5p
+cvovJziei!bG7&ns7piv?x
+Dear Friend IT is time Go
+Bfve,X,e&LeZ7&ms=d(l;<
+Faae X}=y&leE6io 1"|}=<
+Opvyp[}&&rcJT4,:28uil'I
+
+Private key recovered: @ugtfT[EY0s}x7=)!1q|$:a
+
+Fix this sentence:
+cure, Let*M**k*ow if *o{*
+
+Fixed:
+Dear Friend IT is time Go
+
+Decrypted msg:
+cure, Let MiIk&ow if yo{o
+ItveQcunD<IR'upavjm}!Vo
+Tuw7C[,e'D IO/b$esl?e?F&
+I0`tdSi=n`eZ/t` ig,ho[;
+Nc3cdc"PeQ-t}pif"ro_*
+Ow7x_x1'Ze^:nam|{$.^#
+`axzP,e!	' ip ~},$W+
+Bfve,X,e&LeZ7&ms=d(l;<
+Dear Friend IT is time Go
+@bvr,WxynD IK!&qsx/9t&Ao
+Isan|WcnZ&Z#c$aqx,e<
+
+Private key recovered: Fvpcjq\E66v r7rx|9-!U2
+
+Fix this sentence:
+gree with*m**t* use t*i}*
+
+Fixed:
+Dear Friend IT is time Go
+
+Decrypted msg:
+gree with miIt' use thi}o
+MsaesEtrind<IM&:r2z,9l'Po
+Pr`7O_~=y'd IP.-&6*kt9@&
+M7wthTvx!n@eE.;bse!xyi];
+Jd$chT;rc"peN,;#e vciY*
+Kx`7tYzi-'zeA;!c>p=pn(X#
+gvxvTu=y!)'!&rsr;xn"Q+
+Faae X}=y&leE6io 1"|}=<
+@bvr,WxynD IK!&qsx/9t&Ao
+Dear Friend IT is time Go
+MtvnpErrcnz&E",&2}>xt:
+
+Private key recovered: BqgcfJTMY866i!=5!t:m<'S2
+
+Fix this sentence:
+ncryption*s**e*e alwa*s 
+
+Fixed:
+Dear Friend IT is time Go
+
+Decrypted msg:
+ncryption soe%e always 
+Dbvy#Ftionz:\$' s{,}=
+Ycw+\~&'z&A,hs$v}~e#
+D&`h8Wvc'n^cIT,~7alvmhs
+Cu38W;ie"ncD_.~*1lwcrs
+Biw+$Zzr+'dcLP9d6,yje2
+
+vad&Wu&!7!D#c'a{lm8
+Opvyp[}&&rcJT4,:28uil'I
+Isan|WcnZ&Z#c$aqx,e<
+MtvnpErrcnz&E",&2}>xt:
+Dear Friend IT is time G
+
+Private key recovered: K`p6ITV_&0~x#x`3}mx-=
+通过拼接Private key得到：
+afctf{OPT_16I&t3rest1ni2
+Kggt5IRVU8*6p'n43z95 D2
+Vff&	SXEX866m/y`7yk->T{
+K#qe.XP\s~x/o$rerx nIf
+Lp"r.XV_],sss-o9"esv:nMw
+Mlf&2U\MX&s{|:u%?pnp7/L~
+spi0XSE^u1s= r4rrhx7%Ev
+@ugtfT[EY0s}x7=)!1q|$:a
+Fvpcjq\E66v r7rx|9-!U2
+BqgcfJTMY866i!=5!t:m<'S2
+K`p6ITV_&0~x#x`3}mx-=
+尝试修复其他语句并代入测试得到：afctf{OPT_1s_Int3rest1ng}
+即：flag{OPT_1s_Int3rest1ng}
