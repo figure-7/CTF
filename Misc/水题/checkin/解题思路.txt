@@ -1,4 +1,0 @@
-将题目字符串拖到cyberchef里，base32转为：
-666c61677b4337465f576f7231645f49355f53305f46756e6e795f486f70335f5930755f4c696b655f31747d
-16进制转为：
-flag{C7F_Wor1d_I5_S0_Funny_Hop3_Y0u_Like_1t}
