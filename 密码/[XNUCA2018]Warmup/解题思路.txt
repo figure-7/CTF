@@ -1,0 +1,4 @@
+打开压缩包按照长度查看流可以找到所有用户的N,E,C
+发现Alice和Dave的n相同，于是可以采用共模攻击。
+套共模攻击板子，运行exp.py得到：b'FLAG{g00d_Luck_&_Hav3_Fun}'
+即：flag{g00d_Luck_&_Hav3_Fun}
