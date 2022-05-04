@@ -1,0 +1,10 @@
+考的是关于数据在内存中的存储
+运行脚本C语言小数内存储存得到：
+496e74657265737472696e67204964656120746f20656e6372797074
+74707972747079727470797274707972747079727470797274707972
+b'Interestring Idea to encrypt'
+b'tpyrtpyrtpyrtpyrtpyrtpyrtpyr'
+压缩包的密码就是：Interestring Idea to encrypt
+得到脚本的数组先进行base64解码在进行DES解码，运行脚本exp.py得到：
+b'actf{breaking_DES_is_just_a_small_piece_of_cake}'
+即：flag{breaking_DES_is_just_a_small_piece_of_cake}
