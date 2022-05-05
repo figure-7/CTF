@@ -1,0 +1,12 @@
+题目用椭圆曲线生成素数p,q
+由于点(p,q) 在椭圆曲线上,可以得到方程:
+q2 =p3 +ap+b (mod ecc_p)
+又因为:
+n=pq
+代入方程中可以得到:
+n2 =p5 +ap3 +bp2 (mod ecc_p)
+通过sage解方程:
+打开SageMath按照sage.txt执行得到的三个结果中，只有第二个是素数
+即p=4573744216059593260686660411936793507327994800883645562370166075007970317346237399760397301505506131100113886281839847419425482918932436139080837246914736557
+运行脚本exp.py得到：b'watevr{factoring_polynomials_over_finite_fields_is_too_ez}'
+即：flag{factoring_polynomials_over_finite_fields_is_too_ez}
