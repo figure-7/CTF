@@ -1,0 +1,5 @@
+使用网站：http://www.hiencode.com/pub_asys.html进行公钥解析
+联系题目给的提示，“偷个懒”------可能用了两个相同的素数。
+于是求gcd(n1,n2)，发现结果不为1，于是根据最大公因数进行n1,n2的分解得到p，然后就可以得到flag了。
+运行脚本exp.py得到其中：b'OpenSSL is widely used\r\nflag is afctf{You_Know_0p3u55I}'
+即：flag{You_Know_0p3u55I}
