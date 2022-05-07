@@ -1,0 +1,5 @@
+打开题目给定的网址得到ids_alert_24032018.pcap
+追踪TCP流量包，获得文件。发现应该是进行了字符替换。
+找到length最大的TCP流进行追踪，得到其中：PMSFADNIJKBXQCGYWETOVHRULZ
+运行脚本exp.py得到其中：INSA{bQ9NYUyAiaXskZDfnnAhtUU01ifeXrOu}
+即flag{bQ9NYUyAiaXskZDfnnAhtUU01ifeXrOu}
