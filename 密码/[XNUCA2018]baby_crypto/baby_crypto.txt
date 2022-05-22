@@ -1,0 +1,10 @@
+The 26 letters a, b, c, ..., y, z correspond to the integers 0, 1, 2, ..., 25
+len(key_a) = m
+len(key_k) = n
+c[i] = (p[i] * key_a[i % m] + key_k[i % n]) % 26
+
+p is plain text, only lowercase letters are refered to.
+c is encrypted text
+
+I have appended the flag at the end of plain text, the format of which is like 'flagis......'
+Now you have the encrypted text, Good luck!
