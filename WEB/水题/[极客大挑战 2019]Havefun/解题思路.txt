@@ -1,0 +1,11 @@
+打开网址，检查源代码发现其中：
+<!--
+        $cat=$_GET['cat'];
+        echo $cat;
+        if($cat=='dog'){
+            echo 'Syc{cat_cat_cat_cat}';
+        }
+        -->
+可知传入cat参数值为dog时，会显示出一些新东西
+输入网址：http://124af422-04e8-443b-9b30-fe9abf191789.node4.buuoj.cn:81/?cat=dog
+得到即flag:flag{f7377747-0fc4-46f8-97d8-e12dd31e2d81}
