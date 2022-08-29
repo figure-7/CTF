@@ -1,4 +1,0 @@
-下面的字符串解密后便能获得flag：
-ZmxhZ3tUSEVfRkxBR19PRl9USElTX1NUUklOR30= 
-注意：
-得到的 flag 请包上 flag{} 提交

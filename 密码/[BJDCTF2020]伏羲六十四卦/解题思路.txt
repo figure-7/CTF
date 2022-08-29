@@ -1,2 +1,0 @@
-运行脚本伏羲六十四卦.py得到其中：bjdcongratulationsongettingtheflag
-即：flag{bjdcongratulationsongettingtheflag}

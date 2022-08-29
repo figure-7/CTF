@@ -1,6 +1,0 @@
-直接用在线网站分解n
-大数分解网站
-得到p,q ,phn=(p-1)*(q-1)
-但这里的e与phn 不互诉素所以不能直接分解需要转化
-运行脚本exp.py得到：b'NPUCTF{diff1cult_rsa_1s_e@sy}'
-即flag{diff1cult_rsa_1s_e@sy}

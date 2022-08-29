@@ -1,3 +1,0 @@
-直接使用曼彻斯特解码器输入密文，按照123三步得到16进制串：024A447B4469664D616E63686573746572636F64657D
-使用cyberchef16进制解码得到：.JD{DifManchestercode}
-即flag：flag{DifManchestercode}

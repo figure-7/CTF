@@ -1,4 +1,0 @@
-套exp.py板子得到：
-65537 
- b'RoarCTF{wm-l1l1ll1l1l1l111ll}'。即flag：
-flag{wm-l1l1ll1l1l1l111ll}

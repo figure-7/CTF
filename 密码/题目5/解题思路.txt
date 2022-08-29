@@ -1,4 +1,0 @@
-分析task.txt里面的数据，把c当成数组可以求得每一位flag
-编写脚本task.py组合每一位得到字符串xhBQCUIcbPf7IN88AT9FDFsqEOOjNM8uxsFrEJZRRifKB1E=|key=visionary
-有字符串的key=visionary字段可知使用visionary解码
-同理解码后可知再使用ROT47解码得到flag

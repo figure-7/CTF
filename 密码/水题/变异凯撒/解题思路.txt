@@ -1,7 +1,0 @@
-下载文件解压得到变异凯撒.txt
-显示：
-加密密文：afZ_r9VYfScOeO_UL^RWUc
-格式：flag{ }
-可以得到该密文从前向后依次ASCII码值加5(f),6(l)，7(a)...
-编写并运行脚本CaesarPlus.py得到flag：
-flag{Caesar_variation}

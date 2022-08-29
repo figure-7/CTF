@@ -1,6 +1,0 @@
-查看hint.txt可知密码范围为19700000到20000000，即生日范围
-接下来使用ARCHPR进行上面范围的压缩包爆破，得到密码19990306
-解压后得到一个C语言文件
-编写脚本exp.py运行得到结果：
-actfmy_naive_encrytion}，即flag：
-flag{my_naive_encrytion}

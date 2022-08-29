@@ -1,4 +1,0 @@
-python中内置的Random类就是采用了MT19937算法，getrandbits(32)方法可以获得一个32位随机数
-整个获取伪随机数的过程的重点就是这个self.mt[]也就是state块的状态。
-运行脚本exp.py得到其中：14c71fec812b754b2061a35a4f6d8421
-即flag：GKCTF{14c71fec812b754b2061a35a4f6d8421}

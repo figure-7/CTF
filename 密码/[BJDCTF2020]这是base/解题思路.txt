@@ -1,5 +1,0 @@
-根据这是base？？.txt的内容，把chipertext中的所有字符分别对应到dict里的数字，然后再对应上base64的标准字典
-运行脚本exp.py得到：
-QkpEe0QwX1kwdV9rTm9XX1RoMXNfYjRzZV9tYXB9
-b'BJD{D0_Y0u_kNoW_Th1s_b4se_map}'即flag：
-flag{D0_Y0u_kNoW_Th1s_b4se_map}

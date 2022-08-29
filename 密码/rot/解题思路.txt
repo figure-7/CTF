@@ -1,8 +1,0 @@
-打开文件，发现密码是一串类似ASCII码的东西，把它转化成为字符串：
-SYNT-V`-synt垊剟l€uv唍{onlp|zlv€l價唋t||qlLLLLZQBG@ErAp@B?E=Fr>B=>ECF?=nnp@D>F=pop
-发现有些数值超过了123
-其中SYNT和synt引起了我的怀疑，发现Y-T==f-l，那么把所有的数字减小13（Y与L的ASCII值之差），然后转化成字符，结果如下：
-FLAG IS flag{www_shiyanbar_com_is_very_good_????}
-MD5:38e4c352809e150186920aac37190cbc
-运行脚本exp.py得到的即flag：
-flag{www_shiyanbar_com_is_very_good_@8Mu}

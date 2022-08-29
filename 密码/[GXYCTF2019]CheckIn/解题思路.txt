@@ -1,5 +1,0 @@
-解压压缩包得到1912205dfc7b892825c.zip，解压该压缩包得到CheckIn.txt
-显示dikqTCpfRjA8fUBIMD5GNDkwMjNARkUwI0BFTg==可知先试用base64解码得到：
-v)*L*_F0<}@H0>F49023@FE0#@EN，再使用rot47解码得到：
-GXY{Y0u_kNow_much_about_Rot}，即flag：
-flag{Y0u_kNow_much_about_Rot}

@@ -1,3 +1,0 @@
-由ZmxhZ3tUSEVfRkxBR19PRl9USElTX1NUUklOR30= 格式可知使用base64解码
-使用CyberChef进行base64解码得到flag：
-flag{THE_FLAG_OF_THIS_STRING}

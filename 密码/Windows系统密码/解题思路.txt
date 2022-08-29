@@ -1,3 +1,0 @@
-打开pass.hash，针对各个字段使用MD5解码：
-其中可以得到字段a7fcb22a88038f35a8f39d503e7f0062解码得到good-luck，即flag：
-flag{good-luck}

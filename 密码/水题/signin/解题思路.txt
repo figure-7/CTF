@@ -1,3 +1,0 @@
-打开网站https://www.bejson.com/convert/ox2str/对文本的密文进行十六进制转字符串得到：
-BJD{We1c0me_t4_BJDCTF}，即flag：
-flag{We1c0me_t4_BJDCTF}

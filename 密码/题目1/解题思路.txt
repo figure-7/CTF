@@ -1,8 +1,0 @@
-n=p*q
-把n存入n.txt中然后在cmd中选择yafu文件夹
-输入命令：.\yafu-x64.exe "factor(n的值)"。
-如果n的值过长，将n的值用文本文件（n.txt）存放在 yafu 目录下，文件最后一行一定要换行，否则eof; done processing batchfile。
-得到p和q的值（两个PRP617）
-分别保存进p.txt和q.txt
-然后使用exp.py（这里面的代码就是计算公式，要会）
-右键这个py文件edit with IDLE把里面p,q,n,e的值更改为当前值回车即可得到结果

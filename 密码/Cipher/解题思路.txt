@@ -1,4 +1,0 @@
-打开网址http://rumkin.com/tools/cipher/playfair.php
-按照提示Alphabet Key输入playfair（公平的玩吧），Your message输入Dncnoqqfliqrpgeklwmppu，选择Decrypt，得到：
-Itisnotaproblemhavefun，即flag：
-flag{itisnotaproblemhavefun}

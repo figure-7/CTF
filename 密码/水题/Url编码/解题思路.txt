@@ -1,5 +1,0 @@
-下载文件解压得到题目.txt
-显示%66%6c%61%67%7b%61%6e%64%20%31%3d%31%7d
-由题意可知进行urlDecode解码
-进行urlDecode解码得到flag：
-flag{and 1=1}

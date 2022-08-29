@@ -1,8 +1,0 @@
-下载压缩包解压后得到文本
-打开网址https://quipqiup.com/输入文本解码得到一条完整语句：
-Xl fogkvryoeksg, e hjdhvxvjvxrl fxksao xh e zavsrb rc alfrbxly dg wsxfs jlxvh rc knexlvaiv eoa oaknefab wxvs fxksaovaiv, effrobxly vr e oayjneo hghvaz; 
-the units may be single letters (the most common), pairs of letters, triplets of letters, mixtures of the above, and so forth.
-The receiver deciphers the text by performing an inverse substitution.
-So the flag is n1_2hen-d3_hu1-mi-ma_a
-即flag：
-flag{n1_2hen-d3_hu1-mi-ma_a}

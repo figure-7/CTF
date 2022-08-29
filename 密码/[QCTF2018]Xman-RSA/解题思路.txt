@@ -1,3 +1,0 @@
-通过分析代码，第一步先通过共模攻击得到n1,然后通过最大公因数得到p1,顺势分解n1,n2,然后逆过去就可以得到flag
-运行脚本exp.py得到：XMAN{CRYPT0_I5_50_Interestingvim rsa.py}
-即：flag{CRYPT0_I5_50_Interestingvim rsa.py}

@@ -1,3 +1,0 @@
-直接套C语言小数内存储存.py板子
-运行得到其中：b'Intef{sec_is_everywhere}'
-即：flag{sec_is_everywhere}

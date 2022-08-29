@@ -1,1 +1,0 @@
-flag{factoring_polynomials_over_finite_fields_is_too_ez}

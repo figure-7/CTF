@@ -1,3 +1,0 @@
-查看Encode.c++文件可知采用了无规律替换的方式
-对文件Cipter进行分析，进行词频分析可以得到最后一句话为：Example afctf{Oh_U_found_it_nice_tRy}
-即flag{Oh_U_found_it_nice_tRy}

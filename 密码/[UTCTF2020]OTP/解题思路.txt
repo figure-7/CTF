@@ -1,5 +1,0 @@
-根据题目描述不难发现这是一个One Time Pad 类型的题，使用otp在线工具
-打开网站https://toolbox.lotusfa.com/crib_drag/输入Encoded A和Original A计算得到：
-CT1 (Hex) XOR CT2 (Hex) = 75,74,66,6c,61,67,7b,74,77,30,5f,74,69,6d,33,5f,70,34,64,73,7d,75,74,66,6c,61,67,7b,74,77,30,5f,74,69,6d,33,5f,70
-带入CyberChef得到：Key type: ag{tw0_tim3_p4ds}utflag{tw0_tim3_p
-即：flag{tw0_tim3_p4ds}

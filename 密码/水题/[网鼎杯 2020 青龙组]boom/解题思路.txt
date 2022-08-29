@@ -1,9 +1,0 @@
-首先运行程序按回车提示需要MD5解密
-使用https://www.cmd5.com/解密得到
-en5oy
-按回车后显示需要解三元一次方程组
-分别输入74，68，31
-按回车后需要解一元二次方程
-使用https://tool.520101.com/calculator/yiyuanerci/解密得到
-正负89127561，即flag：
-flag{en5oy_746831_89127561}

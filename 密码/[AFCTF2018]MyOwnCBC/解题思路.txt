@@ -1,2 +1,0 @@
-运行脚本exp.py得到其中：afctf{Don't_be_fooled_by_yourself}
-即：flag{Don't_be_fooled_by_yourself}

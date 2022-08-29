@@ -1,1 +1,0 @@
-flag{xor_xor_xor_biubiubiu}

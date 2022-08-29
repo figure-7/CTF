@@ -1,7 +1,0 @@
-图片使用010Editor打开，把FF D8前面的内容删掉
-之后保存得到img.png，是一棵树
-想到数据结构中的二叉树算法。题目又说 left or right 
-左或右，即前序和中序，百度找一个二叉树求后序的算法就可以解出来了
-010Editor中两段16进制数据，转换成ascii码，然后用二叉树算法求后序
-运行脚本exp.py得到：951c4e03xm82yw7gvdakhusjilponzbf
-即flag：flag{951c4e03xm82yw7gvdakhusjilponzbf}

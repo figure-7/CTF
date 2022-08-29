@@ -1,6 +1,0 @@
-先进行质因数分解：网址：http://tools.jb51.net/jisuanqi/factor_calc
-分解得到两个质因数：101999，966233
-拼接得到101999966233
-打开captfEncoder进行MD5解码得到：d450209323a847c8d01c6be47c81811a
-即flag：
-flag{d450209323a847c8d01c6be47c81811a}

@@ -1,6 +1,0 @@
-pubkey.pem的最后一段是存储e的。
-运行脚本exp.py得到：0x2b0566e59807290203010001
-即e=65537(16进制位对应10001)
-这里c和m的转化过程中，都有一个byteorder=‘little’，也就是说要逆向。
-运行exp2.py得到其中：b'pctf{!fUtuR3_pR00f}'
-即flag{!fUtuR3_pR00f}

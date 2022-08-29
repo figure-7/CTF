@@ -1,5 +1,0 @@
-下载文件解压得到题目.txt
-显示：
-U2FsdGVkX1/+ydnDPowGbjjJXhZxm2MP2AgI
-打开网页https://www.bejson.com/enc/aesdes/使用rabbit解码得到：Cute_Rabbit，即flag：
-flag{Cute_Rabbit}

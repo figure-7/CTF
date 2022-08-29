@@ -1,5 +1,0 @@
-题目给出attachment.py得到p,q,e,n,c（#号代表的值）
-套p,q接近的板子exp.py更改各个参数的值得到m即可
-运行脚本exp.py得到：
-b'flag{B4by_Rs4}'，即flag：
-flag{B4by_Rs4}

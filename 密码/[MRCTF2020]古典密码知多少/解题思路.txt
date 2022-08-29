@@ -1,9 +1,0 @@
-题目翻译：
-我想你能明白我的意思
-嗯…也许你可以买一些围栏~都是大写字母！
-一张图，猪圈密码+标准银河字母+圣堂武士+猪圈变形
-在网上找密码表对照解出 FGCP FLI RTU A S YO N
-加在一起就是FGCPFLIRTUASYON
-上面也说了 买一些围栏，在栅栏解密呗
-得到FLAGISCRYPTOFUN，所以flag为：
-flag{CRYPTOFUN}

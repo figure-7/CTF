@@ -1,3 +1,0 @@
-这道题告诉了rsa的n的因子其中的p，但是其中的字母有所替换，我们就可以发现，这串字符中的‘FC’可能是’FC‘也可能是’9F
-运行脚本exp.py得到：b'INSA{I_w1ll_us3_OTp_n3xT_T1M3}'
-即flag{I_w1ll_us3_OTp_n3xT_T1M3}
