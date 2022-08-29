@@ -1,3 +1,0 @@
-打开网址，用户名随便写，密码用：asd'or'1
-得到：Login Success!flag：flag{37e9c6ea-0968-44a5-ba06-875a97678b70}
-即flag{37e9c6ea-0968-44a5-ba06-875a97678b70}

